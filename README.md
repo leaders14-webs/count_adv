@@ -36,12 +36,6 @@ https://ld13-count.herokuapp.com/ <br>
 - 背景色: ![#f8b516](https://via.placeholder.com/15/f8b516</000000?text=+) #f8b516
 - 文字色: ![#d8d8d8](https://via.placeholder.com/15/d8d8d8/000000?text=+) #d8d8d8
 
-#### 新規カウンター作成ボタン
-
-- 元のファイルにはないので実装してください！
-- 背景色: ![#d01026](https://via.placeholder.com/15/d01026</000000?text=+) #d01026
-- 文字色: ![#d8d8d8](https://via.placeholder.com/15/d8d8d8/000000?text=+) #d8d8d8
-
 ### リングの色
 
 現在のカウントの数によってリングの色が変わります.
